@@ -1,6 +1,6 @@
  # 💫 About Me:
  <h1>Bloch Navaj</h1>
-Backend Technology<br>MERN stach,Next.js<br>Silent and mook mood 
+Backend Technology<br>Full Stack Developer<br>Silent and mook mood 
 
 
 ## 🌐 Socials:
